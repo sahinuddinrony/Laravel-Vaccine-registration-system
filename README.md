@@ -7,7 +7,8 @@
 
 ### How to use
 
-- Clone the project with `git clone`[https://github.com/sahinuddinrony/Laravel-Vaccine-registration-system.git]
+- Clone the project with `git clone`
+  [https://github.com/sahinuddinrony/Laravel-Vaccine-registration-system.git]
 - Copy `.env.example` file to `.env` and edit database credentials there
 - Run `composer install`
 - Run `php artisan key:generate`
