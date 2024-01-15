@@ -11,15 +11,14 @@
 - Copy `.env.example` file to `.env` and edit database credentials there
 - Run `composer install`
 - Run `php artisan key:generate`
-- edit .env.example to .env
 - Run `php artisan migrate --seed` (it has some seeded data for your testing)
-- php artisan serve
+- Run `php artisan serve`
 - That's it: launch the main URL
 
 
-### run queue and task scheduling
- - php artisan queue:work
- - php artisan  schedule:work
+### Run queue and task scheduling
+ - Run `php artisan queue:work`
+ - Run `php artisan  schedule:work`
 
 ---
 
