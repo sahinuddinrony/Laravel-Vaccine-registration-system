@@ -38,5 +38,5 @@
 
 ## More
 
-- Linkedin [https://www.linkedin.com/in/sahinuddinrony/)
+- Linkedin  https://www.linkedin.com/in/sahinuddinrony/
 
