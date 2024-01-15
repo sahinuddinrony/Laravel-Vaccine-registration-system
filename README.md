@@ -1,4 +1,4 @@
-## Laravel: Vaccine Registration System
+## Laravel: Vaccine Registration System Using queue and task scheduling 
 
 ![Demo screenshot](./demo-screenshot.png)
 ![Demo screenshot](./demo-screenshot1.png)
